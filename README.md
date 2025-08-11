@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- Profile Banner -->
-<p align="center">
+<div align="center" style="margin:0;padding:0;">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-</p>
+</div>
 
 <h1 align="center">Hi, I'm Zaid Shaheed 👋</h1>
 <h3 align="center">Aspiring Software Developer | Python Enthusiast | Full-Stack Learner</h3>
