@@ -1,6 +1,7 @@
-<!-- Profile Banner -->
-<div align="center" style="margin-top:-10px; margin-bottom:-10px;">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
+<!-- Custom Profile  -->
+<div align="center" style="margin: 0; padding: 0;">
+  <img src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-f840-61f5-af91-9b8fcdc35617/raw?se=2025-08-11T12%3A56%3A30Z&sp=r&sv=2024-08-04&sr=b&scid=4f41a78e-15b3-5e85-941b-864b11f82373&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-11T11%3A31%3A58Z&ske=2025-08-12T11%3A31%3A58Z&sks=b&skv=2024-08-04&sig=S6vtjqQ/UystNoJeU7f/AFk5CFF8HwAAGI36msxBGhY%3D" 
+       style="display: block; width: auto; height: 150px;" />
 </div>
 
 <h1 align="center">Hi, I'm Zaid Shaheed 👋</h1>
@@ -97,6 +98,7 @@ A Python-based **QR generator** for links, UPI IDs, or text
 
 ---
 
-<div align="center" style="margin-top:-10px; margin-bottom:-10px;">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
+<!-- Bottom Rainbow Animation Banner -->
+<div align="center" style="margin: 0; padding: 0;">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" style="display: block;" />
 </div>
