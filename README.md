@@ -48,7 +48,7 @@ A **Flask + Tkinter** hybrid app with:
 - Excel/CSV import/export  
 - Multiple account support  
 <p align="left">
-  <a href="https://github.com/ZaidShaheed/finance-tracker">
+  <a href="https://github.com/zaid3004/finance-tracker">
     <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -62,7 +62,7 @@ A **modern dark-themed** Python/Tkinter app with:
 - Countdown timer with presets  
 - Stopwatch  
 <p align="left">
-  <a href="https://github.com/ZaidShaheed/enhanced-clock">
+  <a href="https://github.com/zaid3004/enhanced-clock">
     <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -74,7 +74,7 @@ A Python-based **QR generator** for links, UPI IDs, or text
 - Save QR to chosen folder  
 - Tkinter GUI for easy use  
 <p align="left">
-  <a href="https://github.com/ZaidShaheed/qr-generator">
+  <a href="https://github.com/zaid3004/qr-generator">
     <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -83,22 +83,22 @@ A Python-based **QR generator** for links, UPI IDs, or text
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaidShaheed&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidShaheed&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaid3004&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaid3004&theme=tokyonight" height="165">
 </p>
 
 ---
 
 ## 🏆 Achievements & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZaidShaheed&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zaid3004&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaidShaheed&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaid3004&theme=tokyo-night" />
 </p>
 
 ---
