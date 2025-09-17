@@ -27,43 +27,84 @@
 
 ## 📌 Featured Projects
 
-### 💰 Personal Finance Tracker  
-A **Flask + Tkinter** hybrid app with:
-- Income/Expense tracking  
-- Filters, sorting, charts & currency conversion  
-- Excel/CSV import/export  
-- Multiple account support  
-<p align="left">
-  <a href="https://github.com/zaid3004/finance-tracker">
-    <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<div align="center">
 
----
+<table>
+  <tr>
+    <!-- Finance Tracker -->
+    <td width="50%" valign="top">
+      <h3>💰 Personal Finance Tracker</h3>
+      <p align="left">
+        A **Flask + Tkinter** hybrid app with:
+        <br>• Income/Expense tracking  
+        • Filters, sorting, charts & currency conversion  
+        • Excel/CSV import/export  
+        • Multiple account support  
+      </p>
+      <p align="left">
+        <a href="https://github.com/zaid3004/finance-tracker">
+          <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
 
-### ⏰ Enhanced Clock App  
-A **modern dark-themed** Python/Tkinter app with:
-- Digital clock  
-- Analog clock with moving hands  
-- Countdown timer with presets  
-- Stopwatch  
-<p align="left">
-  <a href="https://github.com/zaid3004/enhanced-clock">
-    <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+    <!-- Clock App -->
+    <td width="50%" valign="top">
+      <h3>⏰ Enhanced Clock App</h3>
+      <p align="left">
+        A **modern dark-themed** Python/Tkinter app with:
+        <br>• Digital clock  
+        • Analog clock with moving hands  
+        • Countdown timer with presets  
+        • Stopwatch  
+      </p>
+      <p align="left">
+        <a href="https://github.com/zaid3004/enhanced-clock">
+          <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 
----
+  <tr>
+    <!-- QR Generator -->
+    <td width="50%" valign="top">
+      <h3>📷 QR Code Generator</h3>
+      <p align="left">
+        A Python-based **QR generator** for links, UPI IDs, or text:
+        <br>• Save QR to chosen folder  
+        • Tkinter GUI for easy use  
+      </p>
+      <p align="left">
+        <a href="https://github.com/zaid3004/qr-generator">
+          <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
 
-### 📷 QR Code Generator  
-A Python-based **QR generator** for links, UPI IDs, or text  
-- Save QR to chosen folder  
-- Tkinter GUI for easy use  
-<p align="left">
-  <a href="https://github.com/zaid3004/qr-generator">
-    <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+    <!-- Orion VVA -->
+    <td width="50%" valign="top">
+      <h3>🤖 Orion VVA</h3>
+      <p align="left">
+        A professional **voice assistant** with an Optimus Prime-inspired personality:
+        <br>• Desktop (Python) & Web (Flask, Vercel) versions  
+        • Wake word: "Hey Orion" + voice recognition  
+        • AI-powered with GROQ's LLaMA 3.3 70B  
+        • Timers, stopwatch, weather, system integration  
+        • MongoDB-based login system  
+        • Persistent scheduling + real-time wake word detection  
+        • Military-themed Optimus Prime design  
+      </p>
+      <p align="left">
+        <a href="https://github.com/zaid3004/orion-vva">
+          <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
