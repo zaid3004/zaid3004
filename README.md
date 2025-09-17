@@ -31,12 +31,12 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💰 Personal Finance Tracker</h3>
-      <p>
+      <p align="center">
         A Flask + Tkinter hybrid app with:  
-        • Income/Expense tracking  
-        • Filters, sorting, charts & currency conversion  
-        • Excel/CSV import/export  
-        • Multiple account support  
+        income/expense tracking,  
+        filters, sorting, charts & currency conversion , 
+        excel/CSV import/export and 
+        multiple account support. 
       </p>
       <p align="center">
         <a href="https://github.com/zaid3004/finance-tracker">
@@ -46,12 +46,12 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⏰ Enhanced Clock App</h3>
-      <p>
+      <p align="center">
         A modern dark-themed Python/Tkinter app with:  
-        • Digital clock  
-        • Analog clock with moving hands  
-        • Countdown timer with presets  
-        • Stopwatch  
+        a digital clock, 
+        an analog clock with moving hands,  
+        a countdown timer with presets and a
+        stopwatch.  
       </p>
       <p align="center">
         <a href="https://github.com/zaid3004/enhanced-clock">
@@ -63,10 +63,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📷 QR Code Generator</h3>
-      <p>
-        A Python-based QR generator for links, UPI IDs, or text:  
-        • Save QR to chosen folder  
-        • Tkinter GUI for easy use  
+      <p align="center">
+        A Python-based QR generator for links, UPI IDs, or text, the ability to  
+        save QR code to chosen folder  
+        and a tkinter GUI for easy use.  
       </p>
       <p align="center">
         <a href="https://github.com/zaid3004/qr-generator">
@@ -76,12 +76,12 @@
     </td>
     <<td width="50%" valign="top">
   <h3 align="center">🤖 Orion VVA</h3>
-  <p>
+  <p align="center">
     An AI-powered voice assistant with:  
-    • Voice recognition + LLaMA AI  
-    • Timers, weather, and system tools  
-    • MongoDB-backed login system  
-    • Web-based Flask app (deployed on Vercel)  
+    voice recognition + Groq AI,  
+    timers, weather, and system tools,  
+    a MongoDB-backed login system  
+    and a web-based Flask app (deployed on Vercel).  
   </p>
   <p align="center">
     <a href="https://github.com/zaid3004/orion-vva">
