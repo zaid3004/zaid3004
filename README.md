@@ -1,134 +1,142 @@
-<!-- Custom Profile  -->
-<div align="center" style="margin: 0; padding: 0;">
-  <img src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-f840-61f5-af91-9b8fcdc35617/raw?se=2025-08-11T12%3A56%3A30Z&sp=r&sv=2024-08-04&sr=b&scid=4f41a78e-15b3-5e85-941b-864b11f82373&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-11T11%3A31%3A58Z&ske=2025-08-12T11%3A31%3A58Z&sks=b&skv=2024-08-04&sig=S6vtjqQ/UystNoJeU7f/AFk5CFF8HwAAGI36msxBGhY%3D" 
-       style="display: block; width: auto; height: 150px;" />
+<div align="center">
+
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D7377,1B2A4A&height=140&section=header&text=Zaid%20Shaheed&fontSize=52&fontColor=ffffff&fontAlignY=62&animation=fadeIn&desc=Mechatronics%20Engineering%20%C2%B7%20Software%20Development%20%C2%B7%20AI%20Systems&descSize=15&descAlignY=82&descColor=7EB8D4" />
+
 </div>
 
-<h1 align="center">Hi, I'm Zaid Shaheed 👋</h1>
-<h3 align="center">Aspiring Software Developer | Python Enthusiast | Full-Stack Learner</h3>
+<div align="center">
+  <a href="https://zaidshaheed.me"><img src="https://img.shields.io/badge/Portfolio-zaidshaheed.me-0D7377?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zaid-shaheed-274560315/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1B2A4A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zaidshaheed1234@gmail.com"><img src="https://img.shields.io/badge/Email-zaidshaheed1234@gmail.com-14A085?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br/>
 
 ---
 
-## 🚀 About Me
-- 🧑‍💻 17-year-old developer passionate about **Python** and **software engineering**  
-- 📚 Studying **AS Level Physics, Maths & Computer Science**  
-- 💡 Building **practical, real-world apps** to strengthen my skills  
-- 🌏 Based in Sharjah, UAE — open to **remote internships**  
-- 🎯 Goal: Land a software development role and keep pushing my limits
+## 👋 About Me
+
+**Year 13 student** at Gems Cambridge Sharjah, studying **Physics · Mathematics · Computer Science** — the three core pillars of Mechatronics Engineering.
+
+I build **full-stack applications**, **AI-powered tools**, and **automated pipelines**. My work spans mobile apps with offline-first architecture, LLM-integrated voice assistants, and multi-source data aggregation systems.
+
+- 📍 Based in **Sharjah, UAE** — open to remote internships
+- 🎓 Targeting a **Mechatronics Engineering** degree (MAHE Dubai / University of Sharjah)
+- 🔭 Currently building: **Orion VVA** (AI voice assistant) & **PRVault** (fitness tracker)
+- 🌱 Actively growing in: **embedded systems**, **control logic**, **TypeScript**
+- ⚡ Background in: Python automation, real-time data pipelines, React Native, Firebase
 
 ---
 
-## 🛠 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,postgresql,bootstrap,html,css,js,git,github,vscode" />
-</p>
-
----
-
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💰 Personal Finance Tracker</h3>
-      <p align="center">
-        A Flask + Tkinter hybrid app with:  
-        income/expense tracking,  
-        filters, sorting, charts & currency conversion , 
-        excel/CSV import/export and 
-        multiple account support. 
-      </p>
-      <p align="center">
-        <a href="https://github.com/zaid3004/finance-tracker">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⏰ Enhanced Clock App</h3>
-      <p align="center">
-        A modern dark-themed Python/Tkinter app with:  
-        a digital clock, 
-        an analog clock with moving hands,  
-        a countdown timer with presets and a
-        stopwatch.  
-      </p>
-      <p align="center">
-        <a href="https://github.com/zaid3004/enhanced-clock">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📷 QR Code Generator</h3>
-      <p align="center">
-        A Python-based QR generator for links, UPI IDs, or text, the ability to  
-        save QR code to chosen folder  
-        and a tkinter GUI for easy use.  
-      </p>
-      <p align="center">
-        <a href="https://github.com/zaid3004/qr-generator">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <<td width="50%" valign="top">
-  <h3 align="center">🤖 Orion VVA</h3>
-  <p align="center">
-    An AI-powered voice assistant with:  
-    voice recognition + Groq AI,  
-    timers, weather, and system tools,  
-    a MongoDB-backed login system  
-    and a web-based Flask app (deployed on Vercel).  
-  </p>
-  <p align="center">
-    <a href="https://github.com/zaid3004/orion-vva">
-      <img src="https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github"/>
-    </a>
-  </p>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🏋️ PRVault
+**React Native · Expo · Firebase · SQLite**
+
+Full-stack fitness tracking mobile app with offline-first architecture. Local SQLite for fast access + Firestore for cloud sync. Features real-time bodyweight charts, personal record logging, and secure Firebase Auth.
+
+[![Repo](https://img.shields.io/badge/GitHub-pr--vault-1B2A4A?style=flat-square&logo=github)](https://github.com/zaid3004/pr-vault)
+
 </td>
 
-  </tr>
+<td width="33%" valign="top">
+
+### 📰 AI News Aggregator
+**Python · PostgreSQL · LLM APIs · RSS**
+
+Automated multi-source pipeline that scrapes YouTube transcripts + RSS feeds (OpenAI, Anthropic), summarises with LLM inference, ranks by relevance, and delivers personalised daily email digests via Gmail SMTP.
+
+[![Repo](https://img.shields.io/badge/GitHub-ai--news--aggregator-1B2A4A?style=flat-square&logo=github)](https://github.com/zaid3004/ai-news-aggregator)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Portfolio Website
+**HTML · CSS · JavaScript**
+
+Multi-audience portfolio at [zaidshaheed.me](https://zaidshaheed.me) with role-specific views — Recruiter, University, Developer, and General. Built framework-free for speed and portability.
+
+[![Live](https://img.shields.io/badge/Live-zaidshaheed.me-14A085?style=flat-square)](https://zaidshaheed.me)
+[![Repo](https://img.shields.io/badge/GitHub-portfolio--website-1B2A4A?style=flat-square&logo=github)](https://github.com/zaid3004/portfolio-website)
+
+</td>
+
+</tr>
 </table>
 
+---
 
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2B7489?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Engineering-Adjacent**
+
+![Data Pipelines](https://img.shields.io/badge/Real--time_Pipelines-0D7377?style=flat-square)
+![LLM APIs](https://img.shields.io/badge/LLM_Integration-14A085?style=flat-square)
+![HMI Design](https://img.shields.io/badge/HMI_Design-1B2A4A?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation_Scripting-0D7377?style=flat-square)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaid3004&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaid3004&theme=tokyonight" height="165">
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaid3004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D7377&icon_color=14A085&text_color=c9d1d9" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaid3004&theme=tokyonight&hide_border=true&background=0D1117&ring=0D7377&fire=14A085&currStreakLabel=14A085" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid3004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D7377&text_color=c9d1d9&langs_count=6" height="130" />
+</div>
 
 ---
 
-## 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaid3004&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaid3004&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaid3004&theme=tokyo-night" />
-</p>
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaid3004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0D7377&line=14A085&point=ffffff" width="100%" />
+</div>
 
 ---
 
-## 📬 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/zaid-shaheed-274560315/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:zaidshaheed1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/zaid.shaheed.m/?__pwa=1#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<div align="center">
 
----
+*Always building. Always learning.*
+**[zaidshaheed.me](https://zaidshaheed.me)** · **[github.com/zaid3004](https://github.com/zaid3004)**
 
-<!-- Bottom Rainbow Animation Banner -->
-<div align="center" style="margin: 0; padding: 0;">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" style="display: block;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B2A4A,0D7377&height=80&section=footer&animation=fadeIn" />
+
 </div>
