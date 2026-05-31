@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-**Year 13 student** at Gems Cambridge Sharjah, studying **Physics · Mathematics · Computer Science** — the three core pillars of Mechatronics Engineering.
+**Year 13 graduate** from Gems Cambridge Sharjah, studying **Physics · Mathematics · Computer Science** — the three core pillars of Mechatronics Engineering.
 
 I build **full-stack applications**, **AI-powered tools**, and **automated pipelines**. My work spans mobile apps with offline-first architecture, LLM-integrated voice assistants, and multi-source data aggregation systems.
 
